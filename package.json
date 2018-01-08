@@ -55,7 +55,7 @@
     "istanbul": "^0.4.1",
     "jsdoc": "^3.4.1",
     "mocha": "^4.0.0",
-    "nock": "^9.0.14",
+    "nock": "9.1.5",
     "nodecat": "^1.0.0",
     "proxyquire": "^1.7.10",
     "regexp.escape": "^1.0.2",
